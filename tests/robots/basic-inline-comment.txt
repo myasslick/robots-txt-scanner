@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /all
-
-User-agent: Google  # Inline comment goes here
-Disallow: /google-only/

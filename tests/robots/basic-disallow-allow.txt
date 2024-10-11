@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /all
-Allow: /all-allow
-
-User-agent: Google
-Allow: /google-okay
-Allow: /google-okay2
-Disallow: /google-only/
